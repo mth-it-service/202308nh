@@ -15,5 +15,10 @@ Registrierung:
  Ondrive SilentSetup
  C:\Windows\SysWOW64\OneDriveSetup.exe /silent
  
+ Downloads:
+ 
+ Content Prep Tool
+ https://github.com/Microsoft/Microsoft-Win32-Content-Prep-Tool
+ 
 
 
