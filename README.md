@@ -29,6 +29,24 @@ Registrierung:
  https://learn.microsoft.com/de-de/mem/intune/apps/store-apps-company-portal-app
  # Update
  
+ https://learn.microsoft.com/de-de/windows/deployment/update/waas-configure-wufb
+ 
+ ##Sicherheit
+ 
+ ### bedingter Zugriff
+ 
+ https://learn.microsoft.com/de-de/mem/intune/protect/conditional-access-intune-common-ways-use
+
+
+## Richtlinien erstellen
+
+https://learn.microsoft.com/de-de/mem/intune/protect/create-conditional-access-intune
+
+##Anpassungen für Citrix
+	https://docs.citrix.com/en-us/citrix-endpoint-management/prepare-to-enroll-devices-and-deliver-resources.html
+
+
+
  
  
  Funktion zum Zurücksetzen fehlerhafter WSUS einstellungen
@@ -204,3 +222,5 @@ Write-host $Config.displayName -ForegroundColor Yellow
 
 ####Config End####
 }
+
+
