@@ -20,5 +20,13 @@ Registrierung:
  Content Prep Tool
  https://github.com/Microsoft/Microsoft-Win32-Content-Prep-Tool
  
+ 
+ ## Package Manager WinGet
+ https://learn.microsoft.com/de-de/windows/package-manager/winget/![image](https://user-images.githubusercontent.com/46057856/220844346-154a76c1-95a7-45b5-907c-05cac6c2a98c.png)
+
+ 
+ 
+ ## 
+ 
 
 
