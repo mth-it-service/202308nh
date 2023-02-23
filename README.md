@@ -22,11 +22,11 @@ Registrierung:
  
  
  ## Package Manager WinGet
- https://learn.microsoft.com/de-de/windows/package-manager/winget/![image](https://user-images.githubusercontent.com/46057856/220844346-154a76c1-95a7-45b5-907c-05cac6c2a98c.png)
+ https://learn.microsoft.com/de-de/windows/package-manager/winget/
 
  
- 
- ## 
+ ## Company Portal App
+ https://learn.microsoft.com/de-de/mem/intune/apps/store-apps-company-portal-app
  
 
 
